@@ -3,7 +3,7 @@ Discussing, designing and building the next step for the open integrity index.
 
 ## Objective
 
-The [Open Integrity Index](https://openintegrity.org) aims to address a blind spot that has existed in the OSS community for decades. Its goal is to raise the quality of code and ensure good development practices are followed to raise the standard of application security and end user privacy.
+The [Open Integrity Index](https://wiki.openintegrity.org) aims to address a blind spot that has existed in the OSS community for decades. Its goal is to raise the quality of code and ensure good development practices are followed to raise the standard of application security and end user privacy.
 
 It will provides a framework for the measurement of software project practices and develops automated measurement tools, qualitative reviewing workflows, open metric taxonomies and an open data repository. It will help the users of these metrics to create detailed scorecards that are backed by evidence and verified through a peer review process. It can become a source of ground truth for software users and support trainers, advocates, funders and policy makers in their efforts to improve end-user security and privacy. It will aggregate, synthesise and makes accessible information that covers different range of practices which impact user’s security and privacy, for instance by conveying the important aspects of security audits, usability reviews or terms of services.
 
