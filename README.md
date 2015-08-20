@@ -7,6 +7,8 @@ The [Open Integrity Index](https://openintegrity.org) aims to address a blind sp
 
 It will provides a framework for the measurement of software project practices and develops automated measurement tools, qualitative reviewing workflows, open metric taxonomies and an open data repository. It will help the users of these metrics to create detailed scorecards that are backed by evidence and verified through a peer review process. It can become a source of ground truth for software users and support trainers, advocates, funders and policy makers in their efforts to improve end-user security and privacy. It will aggregate, synthesise and makes accessible information that covers different range of practices which impact user’s security and privacy, for instance by conveying the important aspects of security audits, usability reviews or terms of services.
 
+![](https://docs.google.com/drawings/d/14kd2wRl5s-g6-4CyFBZyLIHy7Bb9BlC8I6JqE4byg3Y/pub?w=1210&h=876)
+
 In order to do so, it seeks to establish partnerships with reputable partners who are engaged in measurement efforts and agree to pool their efforts to develop open tools and produce open data. 
 
 ![](https://docs.google.com/drawings/d/1D4fw3D1Fd8JJhwTpDdk2IKAnKMPh4tJD0Iqdu6rIWJE/pub?w=960&h=720)
@@ -42,6 +44,7 @@ This is a list of organisations and projects which we have identified and consid
   * GHTorrent
   * TOSDR, TOSBack
   * Ranking Digital Rights
+  * Measurement Lab
   * OONI
   * Tactical Tech
   * Second Muse
