@@ -1,5 +1,5 @@
-# openintegrity2
-Discussing, designing and building the next step for the open integrity index.
+# openintegrity-metrics
+Discussing, designing and building the next step for the open integrity index collection of metrics which impact end-user security and privacy.
 
 ## Objective
 
