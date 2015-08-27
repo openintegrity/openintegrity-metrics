@@ -1,6 +1,8 @@
 # openintegrity-metrics
 Discussing, designing and building the next step for the open integrity index collection of metrics which impact end-user security and privacy.
 
+[![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/openintegrity/openintegrity?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+
 ## Objective
 
 The [Open Integrity Index](https://wiki.openintegrity.org) aims to address a blind spot that has existed in the OSS community for decades. Its goal is to raise the quality of code and ensure good development practices are followed to raise the standard of application security and end user privacy.
