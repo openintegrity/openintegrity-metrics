@@ -28,7 +28,7 @@ Open Integrity Index will work together with Measurement Partners who are intere
  * Usability metrics
  * User review metrics
  * Legal metrics
- * Human Rights impact metrics
+ * Human Rights policies and practices metrics
  * Security audit metrics
  * Net Neutrality
 
